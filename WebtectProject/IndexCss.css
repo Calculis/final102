@@ -68,8 +68,9 @@ label{
 }
 .goals {
     
-    margin: 40px 100px 0px 0px;
+    margin: 40px 0px 0px 50px;
     width: 45% ;
+    
     /* background-color: #F99985;
     border-radius: 10%; */
     padding:20px;
@@ -123,21 +124,24 @@ label{
 .skill tr,td,th{
     /* border:white 1px solid;
     border-collapse: collapse; */
-    padding:10px;
+    padding:5px;
     
     
 }
 .job{
-    margin: 100px 150px 0px 0px;
+    margin: 40px 250px 0px 0px;
+    float: right;
 }
 .skill td,th{
     width: 100px;
+    height: 2em;
+  
 }
 .skill table{
     width: 50%;
     margin: 80px 0px 0px 0px;
-    border-spacing: 2em;
-
+    /* border-spacing: 1.5em; */
+  
     
 }
 .blank{
@@ -177,7 +181,7 @@ legend{
 }
 .Picture2{
     float: right;
-    margin: 0px 150px 0px 0px;
+    margin: 0px 90px 0px 0px;
 }
 .footer{
     margin:50px 0px 0px 0px ;

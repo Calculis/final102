@@ -1,28 +1,32 @@
-.init{
+
+/* .init{
+    margin: 100px 0px 0px 40px;
+    color:white;
+} */
+.T1st{
     margin: 100px 0px 0px 40px;
     color:white;
 }
 .eduTable,.informal{
     margin:40px;
-   
+   width: 80%;
+    margin: auto;
 }
+
 td{
     text-align: center;
     color:white;
+    padding:20px;
 }
 .eduTable th{
     font-size: 3em;
-    color:white;
+    color:#D14D56;
+    text-align: left;
    
 }
-.informal th{
-    font-size: 2em;
-    color:white;
-    
-    width:300px;
-   
+.left{
+    text-align: right;
 }
-table .informal {
-    margin-left: auto; 
-  margin-right: auto;
+.right{
+    text-align: left;
 }
