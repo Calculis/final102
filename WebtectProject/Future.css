@@ -1,0 +1,58 @@
+body{
+    background-color:#311315 ;
+font-family: 'Pangolin', cursive;
+
+
+}
+#header{
+    /* display:none; */
+    font-family: 'Dancing Script', cursive;
+    position: fixed;
+    background-color: #D14D56;
+    top: 0 ;
+    padding: 10px;
+    width:100% ;
+    margin: 0px;
+
+   
+}
+.side{
+    float: right;
+    margin: 0px 30px 0px 0px;
+    font:800 1.5em black;
+    opacity: 0.5;
+    font-family: 'Dancing Script', cursive;
+}
+a{
+    text-decoration: none;
+    position: relative;
+    color: inherit;
+}
+a:hover{
+    color:white;
+    top:-5px;
+}
+#header .topic{
+    opacity:0.5 ;
+    font: 800 1.5em black;
+    padding-left: 10px;
+    font-family: 'Dancing Script', cursive;
+    margin:0px 20px;
+    position: relative;
+    left:50px;
+}
+.inspire{
+    
+     margin: 90px 60px 0px 0px;
+     color:white;
+    width:40%;
+     float: right;
+     font-size: 1.25em;
+}
+.careerPic{
+    margin: 90px 0px 0px 30px;
+    
+}
+
+
+    

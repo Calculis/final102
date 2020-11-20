@@ -1,0 +1,234 @@
+body{
+/* width: fit-content; */
+background-color:#311315 ;
+font-family: 'Pangolin', cursive;
+
+margin: auto;
+
+}
+#header{
+    /* display:none; */
+    font-family: 'Dancing Script', cursive;
+    position: fixed;
+    background-color: #D14D56;
+    top: 0 ;
+    padding: 10px;
+    width:100% ;
+    margin: 0px;
+
+   
+}
+
+
+a{
+    text-decoration: none;
+    position: relative;
+    color: inherit;
+}
+a:hover{
+    color:white;
+    top:-5px;
+}
+#header .topic{
+    opacity:0.5 ;
+    font: 800 1.5em black;
+   
+    padding-left: 10px;
+    font-family: 'Dancing Script', cursive;
+    margin:10px;
+    position: relative;
+    left:50px;
+    
+    
+}
+.main{
+    margin-top: 100px;
+    font-size: 1.20em;
+    margin-right: 5%;
+    width:50%;
+  
+    float: right;
+    
+}
+.main h1{
+    font-size: 2.25em;
+}
+label{
+    color:white;
+}
+.side{
+    float : right;
+
+    opacity:0.5 ;
+    font: 800 2em black;
+   
+  
+    font-family: 'Dancing Script', cursive;
+    margin:0px 20px;
+}
+.goals {
+    
+    margin: 40px 100px 0px 0px;
+    width: 45% ;
+    /* background-color: #F99985;
+    border-radius: 10%; */
+    padding:20px;
+    
+}
+.goals p{
+    font-size: 1.20em;
+    line-height: 1.75em;
+    color: white;
+}
+.goals h1{
+    font-size: 2.5em;
+    color:#D14D56
+}
+.next{
+    width: 30%;
+    height: 200px;
+    border: solid black 1px;
+}
+.main h1{
+    color: #D14D56;
+}
+
+.main p{
+   line-height: 1.75em;
+      /* border: solid 1px black; */
+      padding:25px;
+ 
+      margin-right: 100px;
+      color:white;
+}
+.Picture{
+    margin:130px 0px 0px 30px;
+
+}
+.about_me{
+    margin:80px 0px 0px 30px;
+  color: white;
+}
+.Mypic{
+    float: right;
+    margin: 0px 40px 0px 0px;
+}
+.about_me p{
+    width: 50%;
+    padding:20px
+}
+.skill{
+    color:white;
+}
+.skill tr,td,th{
+    /* border:white 1px solid;
+    border-collapse: collapse; */
+    padding:10px;
+    
+    
+}
+.job{
+    margin: 100px 150px 0px 0px;
+}
+.skill td,th{
+    width: 100px;
+}
+.skill table{
+    width: 50%;
+    margin: 80px 0px 0px 0px;
+    border-spacing: 2em;
+
+    
+}
+.blank{
+    border:2px lightcoral solid;
+    background-color: wheat;
+    height: 20px;
+    width: 100%;
+
+}
+.skill th{
+    font-weight: 800;
+    font-size:2.3em;
+   
+}
+.skillT{
+    text-align: center;
+}
+
+.contact{
+    margin: 40px;
+    font-size: 1.75em
+}
+
+fieldset{
+    width:90%;
+    margin:auto;
+  color: white;   
+  font-size: small;
+  
+}
+fieldset h4{
+    padding:5px;
+}
+legend{
+    font-size: 2em;
+    padding:10px;
+}
+.Picture2{
+    float: right;
+    margin: 0px 150px 0px 0px;
+}
+.footer{
+    margin:50px 0px 0px 0px ;
+}
+
+.container{
+    width: 100%;
+   background-color: #511E22;
+}
+.maxSkill{
+    background-color: #A53D44;
+    text-align: right;
+    padding:4px
+}
+td{
+    font-size: 1.5em;
+}
+
+ul{
+    list-style-type: square;
+}
+
+.ex1{
+    margin:20px 0px 0px 100px;
+ 
+}
+
+.ex2{
+    margin:20px 100px 0px 0px;
+   float: right;
+ 
+   
+}
+.ex2left{
+    float:left;
+ 
+    padding:10px;
+    margin:40px 0px 0px 60px;
+    width: 30%;
+    text-align: center;
+}
+.ex2left p{
+    margin:90px 0px 0px 40px;
+  
+}
+.ex1right{
+    width: 40%;
+    padding:10px;
+    float:right;
+    text-align: center;
+    margin: 40px 100px 0px 0px;
+    
+   
+}

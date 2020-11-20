@@ -1,0 +1,28 @@
+.init{
+    margin: 100px 0px 0px 40px;
+    color:white;
+}
+.eduTable,.informal{
+    margin:40px;
+   
+}
+td{
+    text-align: center;
+    color:white;
+}
+.eduTable th{
+    font-size: 3em;
+    color:white;
+   
+}
+.informal th{
+    font-size: 2em;
+    color:white;
+    
+    width:300px;
+   
+}
+table .informal {
+    margin-left: auto; 
+  margin-right: auto;
+}
